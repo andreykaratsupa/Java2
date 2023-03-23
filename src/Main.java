@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        int x = 14777;
-        int bonus = x / 20;
+        int first = 14777;
+        int bonus = first / 20;
         System.out.println("Бонус" + bonus);
     }
     // Объявляете переменные для входных данных и
